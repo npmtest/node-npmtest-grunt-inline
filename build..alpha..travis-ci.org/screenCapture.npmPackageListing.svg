@@ -1,0 +1,33 @@
+<svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="478" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 11:14:56 +0000    81083 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 11:14:56 +0000     1153 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 11:14:56 +0000     1089 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 11:14:56 +0000     6497 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 11:14:56 +0000      901 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 11:14:56 +0000     9282 bytes  tasks/inline.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 11:14:56 +0000      271 bytes  test/dist/css.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 11:14:56 +0000      213 bytes  test/dist/css_greedy.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 11:14:56 +0000      143 bytes  test/dist/html.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 11:14:56 +0000       11 bytes  test/dist/html/test.html</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 11:14:56 +0000      152 bytes  test/dist/html_greedy.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 11:14:56 +0000      155 bytes  test/dist/img.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 11:14:56 +0000     1447 bytes  test/dist/img/icon.png</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 11:14:56 +0000      171 bytes  test/dist/img_greedy.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-23 11:14:56 +0000       20 bytes  test/dist/js/export.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-23 11:14:56 +0000      141 bytes  test/dist/script.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-23 11:14:56 +0000      191 bytes  test/dist/script_greedy.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-23 11:14:56 +0000     8487 bytes  test/dist/styles/main.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-23 11:14:56 +0000    20923 bytes  test/expected/css.min.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-23 11:14:56 +0000    20923 bytes  test/expected/css_greedy.min.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-23 11:14:56 +0000       84 bytes  test/expected/html.min.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-23 11:14:56 +0000       95 bytes  test/expected/html_greedy.min.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-23 11:14:56 +0000     2039 bytes  test/expected/img.min.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-23 11:14:56 +0000     4005 bytes  test/expected/img_greedy.min.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-23 11:14:56 +0000      110 bytes  test/expected/script.min.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-23 11:14:56 +0000      147 bytes  test/expected/script_greedy.min.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-23 11:14:56 +0000     1308 bytes  test/greedy_test.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-23 11:14:56 +0000     1125 bytes  test/inline_test.js</tspan>
+</text>
+</svg>
